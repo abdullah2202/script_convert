@@ -1,0 +1,17 @@
+includes:
+    keyword: "#include"
+    replace: "___in_a_cloud__"
+#comments are here   
+    
+copyright:
+    keyword: Copyright
+    replace: Copywrong
+    
+    
+buy:
+    keyword: Buy
+    replace: No_Buy
+    
+OnStart:
+    keyword: OnStart
+    replace: func_on_start
