@@ -1,7 +1,7 @@
 import yaml
 
-settings = "G:/My Drive/py/settings.yml"
-filename = "G:/My Drive/py/test.mqh"
+settings = "settings.yml"
+filename = "test.mqh"
 file_buffer = []
 
 with open(settings, "r") as ymlfile:
